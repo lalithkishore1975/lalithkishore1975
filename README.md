@@ -73,8 +73,6 @@
 
 ---
 
-### 🐍 GitHub Contribution Snake Animation
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/lalithkishore1975/lalithkishore1975/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/lalithkishore1975/lalithkishore1975/output/github-contribution-grid-snake.gif" />
 </p>
