@@ -11,7 +11,7 @@
 - 👨‍💻 All my projects are available at [https://github.com/lalithkishore1975](https://github.com/lalithkishore1975)  
 - 💬 Ask me about **data analysis, dashboards, and full-stack development**  
 - 📫 Reach me at **lalithkishore128@gmail.com**  
-- ⚡ Fun fact: *I'm that one developer who turns coffee into deploys.* ☕
+- ⚡ Fun fact: *I'm that one developer who turns coffee into deploys.* ☕  
 
 ---
 
@@ -67,10 +67,11 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=lalithkishore1975&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=lalithkishore1975" alt="GitHub Streak" />
+<p>
+  <img align="center" src="https://streak-stats.demolab.com?user=lalithkishore1975&theme=dark" alt="GitHub Streak" />
 </p>
 
+---
 
 ### 🐍 GitHub Contribution Snake Animation
 
