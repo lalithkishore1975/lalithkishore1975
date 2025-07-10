@@ -71,8 +71,8 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lalithkishore1975&" alt="Streak Stats" />
 </p>
 
----
+### 🐍 GitHub Contribution Snake Animation
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/lalithkishore1975/lalithkishore1975/output/github-contribution-grid-snake.gif" />
+  <img src="https://raw.githubusercontent.com/lalithkishore1975/lalithkishore1975/output/github-contribution-grid-snake.svg" />
 </p>
