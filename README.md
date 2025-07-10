@@ -67,9 +67,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=lalithkishore1975&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lalithkishore1975&" alt="Streak Stats" />
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=lalithkishore1975" alt="GitHub Streak" />
 </p>
+
 
 ### 🐍 GitHub Contribution Snake Animation
 
